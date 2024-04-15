@@ -7,7 +7,7 @@ Here, you will see a "Sign Up" button at the top right corner of the website. Cl
 After signing up, you'll receive an email from OpenAI to confirm your account. Open this email and click on the verification link. This step helps to ensure the security of your account.
 3. Log into your account‍
 Now that your account is verified, return to the OpenAI website and click on the "Log In" button. Enter the username and password you used to sign up.
-[image](/images/19161376/e3597fde-ec3f-473a-ab86-8dc5b6306041)
+!(https://github.com/braincomputingsantosh/chatgpt-openapi-key/blob/main/images/6469d570e56849aa8a67c25c_openai-api-key-screen-2-2.png?raw=true)
 
 5. Navigate to the API section
 ‍After logging in, in the top right corner of your screen you'll see an icon with your account name. Click it to open the dropdown menu then click "View API keys".
