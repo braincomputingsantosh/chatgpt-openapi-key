@@ -1,4 +1,4 @@
-How do I get an OpenAI API Key?
+### How do I get an OpenAI API Key?
 To get your own OpenAI API key, follow the steps below:
 1. Create an OpenAI account‍
 If you don't already have an OpenAI account, navigate to the OpenAI website [https://www.openai.com/].
