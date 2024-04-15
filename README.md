@@ -7,11 +7,11 @@ Here, you will see a "Sign Up" button at the top right corner of the website. Cl
 After signing up, you'll receive an email from OpenAI to confirm your account. Open this email and click on the verification link. This step helps to ensure the security of your account.
 3. Log into your account‍
 Now that your account is verified, return to the OpenAI website and click on the "Log In" button. Enter the username and password you used to sign up.
-!(https://github.com/braincomputingsantosh/chatgpt-openapi-key/blob/main/images/6469d570e56849aa8a67c25c_openai-api-key-screen-2-2.png?raw=true)
+![Create an account](https://github.com/braincomputingsantosh/chatgpt-openapi-key/blob/main/images/6469d570e56849aa8a67c25c_openai-api-key-screen-2-2.png?raw=true)
 
 5. Navigate to the API section
 ‍After logging in, in the top right corner of your screen you'll see an icon with your account name. Click it to open the dropdown menu then click "View API keys".
-https://assets-global.website-files.com/5f88a8a806465b832e2951aa/6469d59ef01604a84f634939_openai-api-key-screen-3.png![image](https://github.com/braincomputingsantosh/chatgpt-openapi-key/assets/19161376/147ed957-4047-4e4b-94fb-987a1ff0612e)
+![API Section](https://github.com/braincomputingsantosh/chatgpt-openapi-key/assets/19161376/147ed957-4047-4e4b-94fb-987a1ff0612e)
 
 6. Generate a new API key
 ‍Now you're in the API keys section, you should see a button "Create new secret key". Click on that button to generate a new API key.
